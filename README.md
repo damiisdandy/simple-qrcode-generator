@@ -12,4 +12,7 @@ go run main.go -h
 ## Installation
 ```bash
 go install 
+
+# usage
+simple-qrcode-generator -h
 ```
